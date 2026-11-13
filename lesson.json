@@ -1,0 +1,16 @@
+{
+  "lesson": 50,
+  "title": "Build an End-to-End Multi-Agent Workflow",
+  "application": "End-to-End Evidence Report",
+  "purpose": "Run planning, grounded analysis, drafting and an independently checked acceptance gate with explicit stage artifacts.",
+  "exercise": "Change a ticket topic and compare the deterministic count with the analysis. Try a report that omits one ticket ID.",
+  "source_topics": [
+    "00-Flujo de trabajo multiagente con Claude.png",
+    "01-Design-the-Multi-Agent-Application.png",
+    "02-Assign-Roles-and-Tools.png",
+    "03-Run-One-Stage-with-query.png",
+    "04-Chain-the-Complete-Workflow.png",
+    "05-Evaluate-and-Refine-the-Output.png",
+    "06-Prepare-for-Production.png"
+  ]
+}

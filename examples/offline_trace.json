@@ -1,0 +1,38 @@
+[
+  {
+    "sequence": 1,
+    "kind": "stage_started",
+    "stage": "plan",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 2,
+    "kind": "stage_finished",
+    "stage": "plan",
+    "elapsed_seconds": 0.00018
+  },
+  {
+    "sequence": 3,
+    "kind": "stage_started",
+    "stage": "analyze",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 4,
+    "kind": "stage_finished",
+    "stage": "analyze",
+    "elapsed_seconds": 2e-05
+  },
+  {
+    "sequence": 5,
+    "kind": "stage_started",
+    "stage": "write",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 6,
+    "kind": "stage_finished",
+    "stage": "write",
+    "elapsed_seconds": 1e-05
+  }
+]

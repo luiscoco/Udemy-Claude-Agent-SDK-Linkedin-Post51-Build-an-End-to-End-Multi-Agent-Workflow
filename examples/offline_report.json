@@ -1,0 +1,26 @@
+{
+  "lesson": 50,
+  "application": "End-to-End Evidence Report",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "plan": {
+      "steps": [
+        "Count topics",
+        "Report counts",
+        "Check evidence"
+      ]
+    },
+    "reference_counts": {
+      "login": 2,
+      "billing": 1
+    },
+    "analysis": {
+      "top_topic": "login",
+      "count": 2
+    },
+    "report": "Login: 2 tickets (T1, T2). Billing: 1 ticket (T3).",
+    "accepted": true
+  },
+  "measured_cost_usd": null
+}

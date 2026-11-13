@@ -1,0 +1,17 @@
+{
+  "goal": "Summarize the supplied support tickets",
+  "tickets": [
+    {
+      "id": "T1",
+      "topic": "login"
+    },
+    {
+      "id": "T2",
+      "topic": "login"
+    },
+    {
+      "id": "T3",
+      "topic": "billing"
+    }
+  ]
+}
